@@ -37,4 +37,6 @@ https://github.com/gundogan8/analyze/blob/main/code/Passmap/heat%20map%20tutoria
 
 ## 開始要件
 - 昔作成したアプリで利用したAWS lambdaの作業手順見返す
+  - [ ] https://github.com/gundogan8/twitter-favorite-tutorial-sub
 - Twitter Dev登録
+  - [X] https://developer.twitter.com/en/portal/projects/1557313161698889728/apps/25116554/keys
