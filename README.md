@@ -11,7 +11,7 @@
 ![matchday.ipynb](images/matchday.png)
 
 - expire.ipynb
-  - プレミアリーグ(EPL)所属選手の契約期間と年棒をbotでTwitter botで配信します
+  - プレミアリーグ(EPL)所属選手の契約期間と年棒をTwitter botで配信します
   - 20クラブのうち1クラブをランダムに選択します
   - 本番用リソースはAWS lambdaで管理しています
   - 毎週金曜日17:00に作動します
