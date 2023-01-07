@@ -6,6 +6,7 @@
   - プレミアリーグ(EPL)で注目しているクラブの試合日程と対戦相手をTwitter botで配信します
   - 本番用リソースはAWS lambdaで管理しています
   - 毎日00:00に作動します
+  - [link](https://twitter.com/gundogan_vamos/status/1610805590913347584)
 
 ![matchday.ipynb](images/matchday.png)
 
@@ -14,6 +15,7 @@
   - 20クラブのうち1クラブをランダムに選択します
   - 本番用リソースはAWS lambdaで管理しています
   - 毎週金曜日17:00に作動します
+  - [link](https://twitter.com/gundogan_vamos/status/1611570236473634818)
 
 ![matchday.ipynb](images/expire.png)
 
