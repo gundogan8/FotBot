@@ -1,9 +1,6 @@
 # FotBot
 欧州サッカー情報を配信するTwitter botです
 
-# 神記事
-https://note.nkmk.me/pandas/
-
 # ソースの役割
 - matchday.ipynb
   - プレミアリーグ(EPL)で注目しているクラブの試合日程と対戦相手をTwitter botで配信します
@@ -26,3 +23,6 @@ https://note.nkmk.me/pandas/
 ```
 jupyter-notebook
 ```
+
+# 参考
+https://note.nkmk.me/pandas/
