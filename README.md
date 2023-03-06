@@ -3,21 +3,13 @@
 
 # ソースの役割
 - matchday.ipynb
-  - プレミアリーグ(EPL)で注目しているクラブの試合日程と対戦相手をTwitter botで配信します
+  - プレミアリーグ(EPL)の試合日程と対戦相手をTwitter botで配信します
+  - 試合日時　ホームチーム vs アウェーチーム
   - 本番用リソースはAWS lambdaで管理しています
-  - 毎日00:00に作動します
-  - [link](https://twitter.com/gundogan_vamos/status/1610805590913347584)
+  - 毎日17:00に作動します
+  - [link](https://twitter.com/gundogan_vamos/status/1631927541996081153?s=46&t=BowfmUcWj0TK6I1rA1lSHQ)
 
 ![matchday.ipynb](images/matchday.png)
-
-- expire.ipynb
-  - プレミアリーグ(EPL)所属選手の契約期間と年棒をTwitter botで配信します
-  - 20クラブのうち1クラブをランダムに選択します
-  - 本番用リソースはAWS lambdaで管理しています
-  - 毎週金曜日17:00に作動します
-  - [link](https://twitter.com/gundogan_vamos/status/1611570236473634818)
-
-![matchday.ipynb](images/expire.png)
 
 # 起動
 ```
